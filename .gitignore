@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+release/
+
+# User data
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Secrets / credentials
+appsettings.local.json
+secrets.json
