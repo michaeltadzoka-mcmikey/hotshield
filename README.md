@@ -37,7 +37,7 @@ Hotshield uses **Windows Firewall** (netsh) to enforce rules:
 ![Dashboard](screenshots/dashboard.png)
 *Main dashboard showing protection status*
 
-![App allowlist](screenshots/allowlist.png)
+![App allowlist](screenshots/app-allowlist.png)
 *Choose which apps are allowed on metered networks*
 
 ## Requirements
