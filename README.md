@@ -34,8 +34,11 @@ Hotshield uses **Windows Firewall** (netsh) to enforce rules:
 | **Import / Export** | Backup your configuration as JSON |
 
 ## Screenshots
+![Dashboard](screenshots/dashboard.png)
+*Main dashboard showing protection status*
 
-(Add screenshots here — open an issue or PR)
+![App allowlist](screenshots/allowlist.png)
+*Choose which apps are allowed on metered networks*
 
 ## Requirements
 
